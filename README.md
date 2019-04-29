@@ -10,3 +10,8 @@ This is an index for all of the demo goodness on the site
 | Logic Apps | Data Capture | [Quickwins-FormsData](https://github.com/davedoesdemos/Quickwins-FormsData/blob/master/QuickwinsFormsData.md) | [Video](https://youtu.be/PGnwvwJKs4g) | This demo shows how you can use a simple HTML form stored in Blob storage to submit data and store it as JSON (or any other format) in Logic Apps  |
 | Cosmos DB | Gremlin | [CosmosDBGremlinPowerBI](https://github.com/davedoesdemos/CosmosDBGremlinPowerBI/blob/master/CosmosDBGremlinPowerBI.md) | [Video](https://youtu.be/kP9_8mbDXYA) | Build a graph database in Cosmos DB with the Gremlin model and then surface that graph data into Power BI |
 | Power BI | Streaming Data | [Quickwins-PowerBIStreaming ](https://github.com/davedoesdemos/Quickwins-PowerBIStreaming/blob/master/PowerBIStreaming.md) | [Video]() | This very quick demo shows how to set up a streaming data source in PowerBI and generate some data with a Logic App to test it. |
+
+
+[ConnectIQ Garmin watch demo app](https://github.com/davedoesdemos/ConnectIQ-Watch-IoT/blob/master/IoTWatchInstructions.md)
+
+[Data Platform Backup and DR](https://github.com/davedoesdemos/DataPlatformBackupDR/blob/master/Index.md)

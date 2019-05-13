@@ -11,7 +11,8 @@ This is an index for all of the demo goodness on the site
 | Cosmos DB | Gremlin | [CosmosDBGremlinPowerBI](https://github.com/davedoesdemos/CosmosDBGremlinPowerBI/blob/master/CosmosDBGremlinPowerBI.md) | [Video](https://youtu.be/kP9_8mbDXYA) | Build a graph database in Cosmos DB with the Gremlin model and then surface that graph data into Power BI |
 | Power BI | Streaming Data | [Quickwins-PowerBIStreaming ](https://github.com/davedoesdemos/Quickwins-PowerBIStreaming/blob/master/PowerBIStreaming.md) | [Video]() | This very quick demo shows how to set up a streaming data source in PowerBI and generate some data with a Logic App to test it. |
 
-
-[ConnectIQ Garmin watch demo app](https://github.com/davedoesdemos/ConnectIQ-Watch-IoT/blob/master/IoTWatchInstructions.md)
+| Category | SubCategory | Demo Instructions | YouTube Video | Description |
+| Streaming Data | Intro | [ConnectIQ Garmin watch demo app](https://github.com/davedoesdemos/ConnectIQ-Watch-IoT/blob/master/IoTWatchInstructions.md) | [Video](https://youtu.be/_39eKRNK3UU) | Introduction to the Garmin IoT Project |
+| Streaming Data | Event Hubs | [ConnectIQ Garmin watch demo app](https://github.com/davedoesdemos/ConnectIQ-Watch-IoT/blob/master/IoTWatchInstructions.md) | [Video](https://youtu.be/9llyGjfKiLo) | Introduction to the Garmin IoT Project |
 
 [Data Platform Backup and DR](https://github.com/davedoesdemos/DataPlatformBackupDR/blob/master/Index.md)

@@ -15,12 +15,13 @@ This is an index for all of the demo goodness on the site
 
 
 
-## Garmin App and Demo
+## Garmin App and Demo Series
 | Category | SubCategory | Demo Instructions | YouTube Video | Description |
 |:--------:|-------------|-------------------|:-------------:|-------------|
 | Application | ConnectIQ | [ConnectIQ App Code](https://github.com/davedoesdemos/ConnectIQ-Watch-IoT) | No Video | The code repository for the ConnectIQ apps |
 | Streaming Data | Intro | [ConnectIQ Garmin watch demo app](https://github.com/davedoesdemos/ConnectIQ-Watch-IoT/blob/master/IoTWatchInstructions.md) | [Video](https://youtu.be/_39eKRNK3UU) | Introduction to the Garmin IoT Project |
-| Streaming Data | Event Hubs | [ConnectIQ Garmin watch demo app](https://github.com/davedoesdemos/ConnectIQ-Watch-IoT/blob/master/IoTWatchInstructions.md) | [Video](https://youtu.be/9llyGjfKiLo) | Introduction to the Garmin IoT Project |
+| Streaming Data | Event Hubs | [Watch demo infrastructure](https://github.com/davedoesdemos/ConnectIQ-Watch-IoT/blob/master/IoTWatchInstructions.md) | [Video](https://youtu.be/9llyGjfKiLo) | Create your ingest infrastructure and Power BI dashboard |
+| Streaming Data | Predictive Model | [Watch Demo HR check with machine learning](https://github.com/davedoesdemos/ConnectIQ-Watch-IoT/blob/master/MLModelTraining.md) | [No Video Yet]() | Transform data and train a machine learning model |
 
 
 ## Documentation

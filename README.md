@@ -23,6 +23,8 @@ This is an index for all of the demo goodness on the site
 | Streaming Data | Event Hubs | [Watch demo infrastructure](https://github.com/davedoesdemos/ConnectIQ-Watch-IoT/blob/master/IoTWatchInstructions.md) | [Video](https://youtu.be/9llyGjfKiLo) | Create your ingest infrastructure and Power BI dashboard |
 | Streaming Data | Predictive Model | [Watch Demo HR check with machine learning](https://github.com/davedoesdemos/ConnectIQ-Watch-IoT/blob/master/MLModelTraining.md) | [No Video Yet]() | Transform data and train a machine learning model |
 
+## MTC Data Lake In a Day
+[Data Lake in a Day (currently incomplete)](https://github.com/davedoesdemos/DataLakeInADay/blob/master/README.md)
 
 ## Documentation
 [Data Platform Backup and DR](https://github.com/davedoesdemos/DataPlatformBackupDR/blob/master/Index.md)

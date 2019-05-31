@@ -12,7 +12,7 @@ This is an index for all of the demo goodness on the site
 | Logic Apps | Data Capture | [Quickwins-FormsData](https://github.com/davedoesdemos/Quickwins-FormsData/blob/master/QuickwinsFormsData.md) | [Video](https://youtu.be/PGnwvwJKs4g) | This demo shows how you can use a simple HTML form stored in Blob storage to submit data and store it as JSON (or any other format) in Logic Apps  |
 | Cosmos DB | Gremlin | [CosmosDBGremlinPowerBI](https://github.com/davedoesdemos/CosmosDBGremlinPowerBI/blob/master/CosmosDBGremlinPowerBI.md) | [Video](https://youtu.be/kP9_8mbDXYA) | Build a graph database in Cosmos DB with the Gremlin model and then surface that graph data into Power BI |
 | Power BI | Streaming Data | [Quickwins-PowerBIStreaming ](https://github.com/davedoesdemos/Quickwins-PowerBIStreaming/blob/master/PowerBIStreaming.md) | [No Video Yet]() | This very quick demo shows how to set up a streaming data source in PowerBI and generate some data with a Logic App to test it. |
-
+| Cognitive Services | Translation | [Book Translator ](https://github.com/davedoesdemos/BookTranslator/blob/master/README.md) | [No Video Yet]() | This C# project is a book translator. It takes in a book in XML format and translates using the Azure cognitive services to a new language |
 
 
 ## Garmin App and Demo Series

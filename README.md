@@ -29,3 +29,8 @@ This is an index for all of the demo goodness on the site
 
 ## Documentation
 [Data Platform Backup and DR](https://github.com/davedoesdemos/DataPlatformBackupDR/blob/master/Index.md)
+
+## Deploy Samples
+ARM Template samples for various products
+
+[SQL Server Managed Instance](https://github.com/davedoesdemos/DeploySQLMI)

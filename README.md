@@ -6,7 +6,7 @@ This is an index for all of the demo goodness on the site
 ### Data DevOps (aka DataOps) Series
 
 | SubCategory | Demo Instructions | YouTube Video | Description |
-|:--------:|-------------|-------------------|:-------------:|-------------|
+|:-----------:|-------------------|---------------|:-----------:|
 | Azure Data Factory | [DevOps with ADF](https://github.com/davedoesdemos/DataDevOps/blob/master/Data_Factory/ADFDevOps.md) | [No Video Yet]() | This demo shows how to use DevOps techniques with Azure Data Factory.  |
 
 ### General Demos

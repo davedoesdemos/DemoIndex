@@ -8,6 +8,8 @@ This is an index for all of the demo goodness on the site
 | SubCategory | Demo Instructions | YouTube Video | Description |
 |:-----------:|-------------------|---------------|:-----------:|
 | Azure Data Factory | [DevOps with ADF](https://github.com/davedoesdemos/DataDevOps/blob/master/Data_Factory/ADFDevOps.md) | [Video](https://youtu.be/CW5GXIEhePE ) | This demo shows how to use DevOps techniques with Azure Data Factory.  |
+| Azure Databricks | [DevOps with Databricks](https://github.com/davedoesdemos/DataDevOps/blob/master/Databricks/DatabricksDevOps.md) | [No Video Yet](https://youtu.be/ ) | This demo shows how to use DevOps techniques with Azure Databricks Notebooks.  |
+
 
 ### General Demos
 

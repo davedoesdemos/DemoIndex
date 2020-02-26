@@ -25,7 +25,7 @@ This is an index for all of the demo goodness on the site
 | Cosmos DB | Gremlin | [CosmosDBGremlinPowerBI](https://github.com/davedoesdemos/CosmosDBGremlinPowerBI/blob/master/CosmosDBGremlinPowerBI.md) | [Video](https://youtu.be/kP9_8mbDXYA) | Build a graph database in Cosmos DB with the Gremlin model and then surface that graph data into Power BI |
 | Power BI | Streaming Data | [Quickwins-PowerBIStreaming ](https://github.com/davedoesdemos/Quickwins-PowerBIStreaming/blob/master/PowerBIStreaming.md) | [No Video Yet]() | This very quick demo shows how to set up a streaming data source in PowerBI and generate some data with a Logic App to test it. |
 | Cognitive Services | Translation | [Book Translator ](https://github.com/davedoesdemos/BookTranslator/blob/master/README.md) | [No Video Yet]() | This C# project is a book translator. It takes in a book in XML format and translates using the Azure cognitive services to a new language |
-| Azure Functions | Streaming Data | [CSV from Blob to Event Hubs](https://github.com/davedoesdemos/CSVBlobToEventHub/blob/master/README.md) | [No Video Yet]() | This project is a function app that collects CSVs from Blob and injects the rows one at a time into an Event Hub instance with optional delay |
+| Azure Functions | Streaming Data | [CSV from Blob to Event Hubs](https://github.com/davedoesdemos/CSVBlobToEventHub/blob/master/README.md) | [Video](https://youtu.be/_4yDWfaW89A ) | This project is a function app that collects CSVs from Blob and injects the rows one at a time into an Event Hub instance with optional delay |
 
 
 ## Garmin App and Demo Series

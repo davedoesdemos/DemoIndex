@@ -1,6 +1,7 @@
 # DemoIndex
 
 ## Azure Demos
+
 This is an index for all of the demo goodness on the site
 
 ### Data DevOps (aka DataOps) Series
@@ -9,9 +10,8 @@ This is an index for all of the demo goodness on the site
 |:-----------:|-------------------|---------------|:-----------:|
 | Azure Data Factory | [DevOps with ADF](https://github.com/davedoesdemos/DataDevOps/blob/master/Data_Factory/ADFDevOps.md) | [Video](https://youtu.be/CW5GXIEhePE ) | This demo shows how to use DevOps techniques with Azure Data Factory.  |
 | Azure Databricks | [DevOps with Databricks](https://github.com/davedoesdemos/DataDevOps/blob/master/Databricks/DatabricksDevOps.md) | [Video](https://youtu.be/R7tJZelEt-Q ) | This demo shows how to use DevOps techniques with Azure Databricks Notebooks.  |
-| Testing | [Intro to testing](https://github.com/davedoesdemos/DataDevOps/blob/master/TestingIntro/README.md) | [No Video Yet](https://youtu.be/R7tJZelEt-Q ) | This demo introduces the process of testing in Azure DevOps  |
-| Testing | [Data testing](https://github.com/davedoesdemos/DataDevOps/blob/master/Testing/README.md) | [No Video Yet](https://youtu.be/R7tJZelEt-Q ) | This demo introduces data platform testing in Azure DevOps  |
-
+| Testing | [Intro to testing](https://github.com/davedoesdemos/DataDevOps/blob/master/TestingIntro/README.md) | [Video](https://youtu.be/H_IaqNDJ11c) | This demo introduces the process of testing in Azure DevOps  |
+| Testing | [Data testing](https://github.com/davedoesdemos/DataDevOps/blob/master/Testing/README.md) | [No Video Yet](https://youtu.be/H_IaqNDJ11c) | This demo introduces data platform testing in Azure DevOps  |
 
 ### General Demos
 
@@ -28,7 +28,6 @@ This is an index for all of the demo goodness on the site
 | Power BI | Streaming Data | [Quickwins-PowerBIStreaming ](https://github.com/davedoesdemos/Quickwins-PowerBIStreaming/blob/master/PowerBIStreaming.md) | [No Video Yet]() | This very quick demo shows how to set up a streaming data source in PowerBI and generate some data with a Logic App to test it. |
 | Cognitive Services | Translation | [Book Translator ](https://github.com/davedoesdemos/BookTranslator/blob/master/README.md) | [No Video Yet]() | This C# project is a book translator. It takes in a book in XML format and translates using the Azure cognitive services to a new language |
 | Azure Functions | Streaming Data | [CSV from Blob to Event Hubs](https://github.com/davedoesdemos/CSVBlobToEventHub/blob/master/README.md) | [Video](https://youtu.be/_4yDWfaW89A ) | This project is a function app that collects CSVs from Blob and injects the rows one at a time into an Event Hub instance with optional delay |
-
 
 ## Garmin App and Demo Series
 

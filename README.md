@@ -62,4 +62,4 @@ ARM Template samples for various products
 
 ## How I Demo
 
-[How I create demos](https://github.com/davedoesdemos/HowToVideo)
+[How I create demos](https://github.com/davedoesdemos/HowToVideo) [Video](https://youtu.be/bOGHp4RfWXA)

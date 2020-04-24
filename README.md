@@ -15,6 +15,8 @@ This repo contains my opinions on best practices and other documentation around 
 | Azure Databricks | [DevOps with Databricks](https://github.com/davedoesdemos/DataDevOps/blob/master/Databricks/DatabricksDevOps.md) | [Video](https://youtu.be/R7tJZelEt-Q ) | This demo shows how to use DevOps techniques with Azure Databricks Notebooks.  |
 | Testing | [Intro to testing](https://github.com/davedoesdemos/DataDevOps/blob/master/TestingIntro/README.md) | [Video](https://youtu.be/H_IaqNDJ11c) | This demo introduces the process of testing in Azure DevOps  |
 | Testing | [Data testing](https://github.com/davedoesdemos/DataDevOps/blob/master/Testing/README.md) | [No Video Yet](https://youtu.be/H_IaqNDJ11c) | This demo introduces data platform testing in Azure DevOps  |
+| Python Testing | [Python testing](https://github.com/davedoesdemos/DataDevOps/tree/master/PythonTesting) | [No Video Yet](https://youtu.be/H_IaqNDJ11c) | This demo introduces python testing in Azure DevOps  |
+
 
 ### General Demos
 

@@ -2,7 +2,7 @@
 
 ## Azure Demos
 
-This is an index for all of the demo goodness on the site
+This is an index for all of the demo goodness on the site. Please also check out [My YouTube Channel](https://www.youtube.com/c/davedoesdemos) for video demos and [davedoesdemos.com](https://davedoesdemos.com) for other info.
 
 [Data Lake Documentation and Opinions](https://github.com/davedoesdemos/DatalakeDocs)
 This repo contains my opinions on best practices and other documentation around a data lake. Please consider this incomplete, and read it alongside other documentation from other sources. It will be updated as and when my thoughts change and I discuss topics with my team.

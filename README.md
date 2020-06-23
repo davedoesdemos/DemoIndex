@@ -51,7 +51,17 @@ This repo contains my opinions on best practices and other documentation around 
 
 ## MTC Data Lake In a Day
 
-[Data Lake in a Day (currently incomplete)](https://github.com/davedoesdemos/DataLakeInADay/blob/master/README.md)
+[Data Lake in a Day](https://github.com/davedoesdemos/DataLakeInADay/blob/master/README.md)
+* [Lab 1 - Getting Internal data with Azure Data Factory and the integration Runtime](https://github.com/davedoesdemos/DataLakeInADay/blob/master/Lab1/Lab1.md) ([video](https://youtu.be/tDvNjbbbASY))
+* [Lab 2 - Getting external data using Logic App](https://github.com/davedoesdemos/DataLakeInADay/blob/master/Lab2/Lab2.md) ([video](https://youtu.be/mw6KK5tun0Y))
+* [Lab 3 - Processing Data using Mapping Data Flows](https://github.com/davedoesdemos/DataLakeInADay/blob/master/Lab3b/Lab3b.md) ([video](https://youtu.be/U6CsAuRg9us))
+  * [Optional alternative lab 3 with Databricks](https://github.com/davedoesdemos/DataLakeInADay/blob/master/Lab3a/Lab3a.md)
+* [Lab 4 - Load data into SQL DW](https://github.com/davedoesdemos/DataLakeInADay/blob/master/Lab4/Lab4.md) ([video](https://youtu.be/uzqFsZv2sCI))
+* [Lab 5 - Load into Power BI](https://github.com/davedoesdemos/DataLakeInADay/blob/master/Lab5/Lab5.md)
+
+* [Session 1 - Data Platform Overview and Options](https://github.com/davedoesdemos/DataLakeInADay/blob/master/Session1/Session1.md) ([video](https://youtu.be/vVvb1muzQZA))
+* [Session 2 - Organising a Data Lake](https://github.com/davedoesdemos/DataLakeInADay/blob/master/Session2/Session2.md) ([video](https://youtu.be/gRaj7gYSi3A))
+* [Session 3 - The Wider Ecosystem](https://github.com/davedoesdemos/DataLakeInADay/blob/master/Session3/Session3.md)
 
 ## Documentation
 

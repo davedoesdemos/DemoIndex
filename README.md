@@ -40,6 +40,8 @@ This repo contains my opinions on best practices and other documentation around 
 | Log Analytics | Data Ingest | [Function App to ingest files as data into Log Analytics](https://github.com/davedoesdemos/loganalyticsfunction) | [No Video Yet](https://youtu.be/uku7HN4zaDc) | This demo shows how to ingest text data (such as unsupported logs) into Log Analytics when they land on a storage account |
 | Storage | Data Upload Website | [Web interface to upload file data to Blob storage with drag and drop](https://github.com/davedoesdemos/dataupload) | [Video](https://youtu.be/3khzPbmHbAQ) | This demo shows how to use HTML and Javascript to upload files to Azure using a drag and drop website hosted in a storage account |
 | Logic Apps | GitHub | [Long term Github traffic statistics](https://github.com/davedoesdemos/githubstats) | [No video yet](https://youtu.be/) | This demo shows how to get long term Github traffic statistics and insights using Logic Apps and the API to create reports beyond the 14 days Gihub provides |
+| IoT Hub | Events | [IoT Hub Event processor](https://github.com/davedoesdemos/IoTtoEvents) | [No video yet](https://youtu.be/) | This demo shows how to get values from a JSON array submitted to IoT Hub and process the elements in Event Hubs or SQL Server |
+
 
 ## Garmin App and Demo Series
 

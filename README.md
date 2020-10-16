@@ -68,7 +68,7 @@ This repo contains my opinions on best practices and other documentation around 
 
 ## Documentation
 
-[Data Platform Backup and DR](https://github.com/davedoesdemos/DataPlatformBackupDR/blob/master/Index.md)
+[Data Platform Backup and DR](https://github.com/davedoesdemos/DataPlatformBackupDR)
 
 ## Deploy Samples
 

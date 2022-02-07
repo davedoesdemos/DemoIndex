@@ -41,6 +41,7 @@ This repo contains my opinions on best practices and other documentation around 
 | Storage | Data Upload Website | [Web interface to upload file data to Blob storage with drag and drop](https://github.com/davedoesdemos/dataupload) | [Video](https://youtu.be/3khzPbmHbAQ) | This demo shows how to use HTML and Javascript to upload files to Azure using a drag and drop website hosted in a storage account |
 | Logic Apps | GitHub | [Long term Github traffic statistics](https://github.com/davedoesdemos/githubstats) | [video](https://youtu.be/S5kxhPDQaxs) | This demo shows how to get long term Github traffic statistics and insights using Logic Apps and the API to create reports beyond the 14 days Gihub provides |
 | IoT Hub | Events | [IoT Hub Event processor](https://github.com/davedoesdemos/IoTtoEvents) | [No video yet](https://youtu.be/) | This demo shows how to get values from a JSON array submitted to IoT Hub and process the elements in Event Hubs or SQL Server |
+| Governance | Lineage | [Simple Data Lineage](https://github.com/davedoesdemos/DataLineage) | [No video yet](https://youtu.be/) | This demo shows how to create data lineage inside your data set so that each row contains its own lineage information |
 
 
 ## Garmin App and Demo Series

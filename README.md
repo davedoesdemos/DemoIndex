@@ -43,6 +43,11 @@ This repo contains my opinions on best practices and other documentation around 
 | IoT Hub | Events | [IoT Hub Event processor](https://github.com/davedoesdemos/IoTtoEvents) | [No video yet](https://youtu.be/) | This demo shows how to get values from a JSON array submitted to IoT Hub and process the elements in Event Hubs or SQL Server |
 | Governance | Lineage | [Simple Data Lineage](https://github.com/davedoesdemos/DataLineage) | [No video yet](https://youtu.be/) | This demo shows how to create data lineage inside your data set so that each row contains its own lineage information |
 
+## Fashion App and Demo Series
+
+| Category | SubCategory | Demo Instructions | YouTube Video | Description |
+|:--------:|-------------|-------------------|:-------------:|-------------|
+| Azure OpenAI | App | [Fashion App](https://github.com/davedoesdemos/FashionApp) | [Video](https://youtu.be/6FIIdKHJl3g) | Introduction to the series |
 
 ## Garmin App and Demo Series
 
